@@ -2,8 +2,8 @@
   "vntv0": "https://d.org.vn/fptplay",
   "vntv1": "https://vietngatv.short.gy/vietngatv",
   "vntv2": "https://vmttv.duckdns.org/",
-  "vntv3": "https://vpsttt.vietanhtv.top/tv/",
-  "vntv4": "https://vpsttt.vietanhtv.top/tv/",
+  "vntv3": "http://test-vn.vercel.app/api",
+  "vntv4": "http://test-vn.vercel.app/api",
   
   "vnsp1": "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u",
   "vnsp2": "http://zaltv.cf/xem/tv",
